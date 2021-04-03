@@ -1,0 +1,19 @@
+.idea
+__pycache__
+venv
+__pycache__
+reactify-ui/node_modules/
+venv
+.vscode
+build
+media
+# db.sqlite3
+*.pyc
+.DS_Store
+static
+static/img/
+static/js/
+static/css/
+staticfiles/img/
+staticfiles/js/
+staticfiles/css/
